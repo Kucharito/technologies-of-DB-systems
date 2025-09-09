@@ -1,7 +1,6 @@
-# TDS Projekt – Adam Kuchár (KUC0396)
+# Databases - project I
 
-This project was created as part of the **TDS (Databases)** course.  
-It demonstrates database schema design, data manipulation, and SQL queries in **Oracle Database**.
+This project demonstrates database schema design, data manipulation, and SQL queries in **Oracle Database**.
 
 ---
 
